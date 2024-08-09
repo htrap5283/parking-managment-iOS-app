@@ -17,12 +17,12 @@
 - [License](#license)
 - [Contact](#contact)
 
-## 🚀 Introduction 
-## introduction
+## introduction  🚀   
+
 **SwiftParking** is an iOS application developed using **SwiftUI** and **Firebase**. This application allows users to manage their parking records with features such as adding, viewing, editing, and deleting parking records. The app integrates Firebase Authentication for secure user management and Firestore for data persistence.
 
-## 🌟 Features
-## features
+## features  🌟
+
 - **User Authentication**: Secure user sign-up, login, profile update, and account deletion using Firebase Authentication.
 - **Add Parking**: Create new parking records with detailed information including location, time, and car details.
 - **View Parking Records**: View a list of all parking records sorted by the most recent entries.
@@ -30,7 +30,7 @@
 - **Profile Management**: Update user profile information including name, contact number, and car plate numbers.
 - **Location Services**: Integrate geocoding and reverse geocoding to manage parking locations.
 
-## 🛠️ Prerequisites
+### prerequisites  🛠️ 
 
 Before you begin, ensure you have the following installed:
 
